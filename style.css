@@ -1,0 +1,13 @@
+#container img{
+    margin-top: 50px;
+    width: 600px;
+}
+button{
+    padding: 20px;
+    border: none;
+    width: 50px;
+    margin-top: 120%;
+}
+#container{
+    display: flex;
+}
